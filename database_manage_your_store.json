@@ -1,0 +1,190 @@
+{
+  "Articoli" : [ null, {
+    "ID" : "1",
+    "descrizione" : "Tastiera meccanica Logitech retroilluminata. Layout QWERTY, con funzionalità Windows 10",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Logitech%20-%20G213.png?alt=media&token=8e39266f-4835-498d-8c2a-2d424a068f2a",
+    "nome" : "Logitech G213",
+    "prezzo" : 49.99,
+    "quantita" : 12
+  }, {
+    "ID" : "2",
+    "descrizione" : "Microfono a Condensatore Razer ideale per Streaming. Possiede ingresso jack 3.55 mm. Latenza zero con Shock Mount Incorporata",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Razer%20-%20Seiren%20X.png?alt=media&token=45f50e1b-2894-49df-8c6e-3fc0181b610f",
+    "nome" : "Razer Seiren X",
+    "prezzo" : 84.99,
+    "quantita" : 22
+  }, {
+    "ID" : "3",
+    "descrizione" : "Primo MacBook con processore M1. Fino a 18 ore di durata di batteria. Colorazione Oro con schermo da 13\"",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Apple%20-%20MacBook%20Air%202020.png?alt=media&token=b1c13709-4bc2-4e65-8f44-166ad1e23648",
+    "nome" : "Apple MacBook Air",
+    "prezzo" : 1159.99,
+    "quantita" : 19
+  }, {
+    "ID" : "4",
+    "descrizione" : "Smart Speaker di seconda generazione targato Sonos. Compatibile con Apple AirPlay 2, Google Home e Amazon Alexa",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Sonos%20-%20One%20Gen.%202.png?alt=media&token=97e47b80-33ac-46b5-993c-39a239f9f2b8",
+    "nome" : "Sonos One 2",
+    "prezzo" : 229.99,
+    "quantita" : 3
+  }, {
+    "ID" : "5",
+    "descrizione" : "Primo iPhone con modulo 5G. Colorazione Pacific Blue con sensore LIDAR. 128 GB di memoria",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Apple%20-%20iPhone%2012%20Pro%20Max.png?alt=media&token=25485263-56d5-4bcb-9c9f-2f2ed70bb104",
+    "nome" : "Apple iPhone 12 Pro Max",
+    "prezzo" : 1289.99,
+    "quantita" : 11
+  }, {
+    "ID" : "6",
+    "descrizione" : "Cassa da 44mm in alluminio e cinturino sportivo. Protezione IP68 con Funzionalità GPS",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Samsung%20-%20Watch%20Active%202.png?alt=media&token=c894bcd9-f924-4e90-bceb-33e34d50a608",
+    "nome" : "Samsung Watch Active 2",
+    "prezzo" : 199.99,
+    "quantita" : 0
+  }, {
+    "ID" : "7",
+    "descrizione" : "Router Dual Band con tecnologia Wi-Fi 6. Offre sicurezza di rete AiProtection Pro",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Asus%20-%20Router%20AX3000.png?alt=media&token=5440d53d-1ec5-47aa-9c5b-f29dad593a6f",
+    "nome" : "Asus Router AX3000",
+    "prezzo" : 199.99,
+    "quantita" : 8
+  }, {
+    "ID" : "8",
+    "descrizione" : "Smart TV di 49\". Risoluzione 3840x2160. Possiede Wi-fi e compatibile con Amazon Alexa. Segnale: DVB-C, DVB-S2, DVB-T2",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Samsung%20-%20NU8000.png?alt=media&token=8b1d00dd-7c52-4248-8a85-4247dbd905ff",
+    "nome" : "Samsung Smart TV UHD NU8000",
+    "prezzo" : 1185.99,
+    "quantita" : 2
+  }, {
+    "ID" : "9",
+    "descrizione" : "Tre livelli di riduzione del rumore. Compatibile Google Assistant. Possiede ingresso jack da 3.5mm e Bluetooth 5.0",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Bose%20-%20QuietComfort%2035.png?alt=media&token=c3dfe5a4-2a60-40d2-8793-778667f9202b",
+    "nome" : "Bose QuietComfort 35 II BT",
+    "prezzo" : 209.99,
+    "quantita" : 44
+  }, {
+    "ID" : "10",
+    "descrizione" : "Top di gamma Samsung. Refresh Rate schermo a 120Hz. 128 GB di memoria, 3 fotocamere e batteria da 4000mAh",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Samsung%20-%20Galaxy%20S21.png?alt=media&token=772f1ff6-4e80-475c-9aad-ef9f144d9846",
+    "nome" : "Samsung Galaxy S21",
+    "prezzo" : 749.99,
+    "quantita" : 1
+  }, {
+    "ID" : "11",
+    "descrizione" : "Fotocamera Canon con sensore CMOS da 30,4 MP. In grado di registrare video in 4K. Wi-Fi incorporato",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Canon%20-%20EOS%205D%20Mark%20IV.png?alt=media&token=ab5cb53f-142d-46f7-95c0-9317a72ef102",
+    "nome" : "Canon EOS 5D Mark IV",
+    "prezzo" : 2149.99,
+    "quantita" : 15
+  }, {
+    "ID" : "12",
+    "descrizione" : "Console di Nona Generazione. Caricamenti ultra rapidi con un'unità SSD ad altissima velocità. PLAY HAS NO LIMITS",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Sony%20-%20Playstation%205.png?alt=media&token=0a0681a0-49a4-45bf-92ed-848dad835a8c",
+    "nome" : "Playstation 5",
+    "prezzo" : 499.99,
+    "quantita" : 0
+  }, {
+    "ID" : "13",
+    "descrizione" : "Stampante multifunzione 3 in 1 Inkjet a colori. Risoluzione stampa: 5760x1440 dpi. Wireless Lan, Card Reader, ePrint",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Epson%20-%20Ecotank%20Et-7700.png?alt=media&token=16d8f8ec-f2ad-454a-8281-2f89ed8c22c9",
+    "nome" : "Epson EcoTank ET-7700",
+    "prezzo" : 499.99,
+    "quantita" : 23
+  }, {
+    "ID" : "14",
+    "descrizione" : "Console di casa Microsoft. 4K reale fino a 120 FPS. Compatibile con tuto il catalogo e accessori di Xbox One. Supporta 8K HDR ",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Microsoft%20-%20Xbox%20Series%20X.png?alt=media&token=18750771-e383-4502-8185-7be31f75f740",
+    "nome" : "Xbox Series X",
+    "prezzo" : 499.99,
+    "quantita" : 9
+  }, {
+    "ID" : "15",
+    "descrizione" : "\"Top di gamma Huawei. Display da 6.58\\\" 1200x2640 con processore Kirin 990 a 2.86 Ghz. Batteria da 4200 mAh",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Huawei%20-%20P40%20Pro.png?alt=media&token=3a884864-f307-4122-b31d-c858164a5c74",
+    "nome" : "Huawei P40 Pro",
+    "prezzo" : 599.99,
+    "quantita" : 8
+  }, {
+    "ID" : "16",
+    "descrizione" : "Computer All in One targato Lenovo. Processore AMD Ryzen 3-4300U a 2.7 GHz. Windows 10 Home incluso",
+    "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Lenovo%20-%20IdeaCentre%20AIO%203.png?alt=media&token=13bc4eaa-2d28-49cb-8c68-036bc642f6bd",
+    "nome" : "Lenovo IdeaCentre AIO 3",
+    "prezzo" : 579.99,
+    "quantita" : 22
+  } ],
+  "Garanzie" : {
+    "-MTvcuNVD2FVr_YJHhkQ" : {
+      "ID" : "-MTvcuNVD2FVr_YJHhkQ",
+      "annoFineGaranzia" : 2022,
+      "annoRitiroAssistenza" : 2021,
+      "cognomeAcquirente" : "Baudo",
+      "descrizioneProblema" : "Non legge piu i dischi",
+      "giornoFineGaranzia" : 15,
+      "giornoRitiroAssistenza" : 19,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Microsoft%20-%20Xbox%20Series%20X.png?alt=media&token=18750771-e383-4502-8185-7be31f75f740",
+      "meseFineGaranzia" : 9,
+      "meseRitiroAssistenza" : 1,
+      "nomeAcquirente" : "Marco",
+      "nomeArticolo" : "Xbox Series X",
+      "numeroTelefonoAcquirente" : "3206888462",
+      "statoAssistenza" : 2
+    },
+    "-MTvdRwJGYBgJNj_n7xh" : {
+      "ID" : "-MTvdRwJGYBgJNj_n7xh",
+      "annoFineGaranzia" : 2021,
+      "annoRitiroAssistenza" : 2021,
+      "cognomeAcquirente" : "Stabile",
+      "descrizioneProblema" : "Obiettivo non si ritrae correttamente",
+      "giornoFineGaranzia" : 25,
+      "giornoRitiroAssistenza" : 4,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Canon%20-%20EOS%205D%20Mark%20IV.png?alt=media&token=ab5cb53f-142d-46f7-95c0-9317a72ef102",
+      "meseFineGaranzia" : 4,
+      "meseRitiroAssistenza" : 3,
+      "nomeAcquirente" : "Beatrice",
+      "nomeArticolo" : "Canon EOS 5D Mark IV",
+      "numeroTelefonoAcquirente" : "3382570473",
+      "statoAssistenza" : 2
+    }
+  },
+  "Ordini" : {
+    "-MTvH21eQHXGh0du12dz" : {
+      "CFAcquirente" : "DMIRSE87M21H501H",
+      "ID" : "-MTvH21eQHXGh0du12dz",
+      "annoArrivo" : 2021,
+      "cognomeAcquirente" : "Di Meo",
+      "descrizioneArticolo" : "Console di Nona Generazione. Caricamenti ultra rapidi con un'unità SSD ad altissima velocità. PLAY HAS NO LIMITS",
+      "giornoArrivo" : 24,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Sony%20-%20Playstation%205.png?alt=media&token=0a0681a0-49a4-45bf-92ed-848dad835a8c",
+      "meseArrivo" : 3,
+      "nome" : "Sony Playstation 5",
+      "nomeAcquirente" : "Eros",
+      "telefonoAcquirente" : "3894526988"
+    },
+    "-MTvJD8lSWeF66tcFd0s" : {
+      "CFAcquirente" : "1234567890123456",
+      "ID" : "-MTvJD8lSWeF66tcFd0s",
+      "annoArrivo" : 2021,
+      "cognomeAcquirente" : "Campopiano",
+      "descrizioneArticolo" : "Cassa da 44mm in alluminio e cinturino sportivo. Protezione IP68 con Funzionalità GPS",
+      "giornoArrivo" : 10,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Samsung%20-%20Watch%20Active%202.png?alt=media&token=c894bcd9-f924-4e90-bceb-33e34d50a608",
+      "meseArrivo" : 3,
+      "nome" : "Samsung Watch Active",
+      "nomeAcquirente" : "Daniele",
+      "telefonoAcquirente" : "3463077930"
+    },
+    "-MTvJaJLwMqx1RYeTfQh" : {
+      "CFAcquirente" : "1234567890123456",
+      "ID" : "-MTvJaJLwMqx1RYeTfQh",
+      "annoArrivo" : 2021,
+      "cognomeAcquirente" : "Rossi",
+      "descrizioneArticolo" : "Smart Speaker di seconda generazione targato Sonos. Compatibile con Apple AirPlay 2, Google Home e Amazon Alexa",
+      "giornoArrivo" : 2,
+      "img" : "https://firebasestorage.googleapis.com/v0/b/mobile-database-c5aba.appspot.com/o/Sonos%20-%20One%20Gen.%202.png?alt=media&token=97e47b80-33ac-46b5-993c-39a239f9f2b8",
+      "meseArrivo" : 2,
+      "nome" : "Sonos One 2",
+      "nomeAcquirente" : "Marco",
+      "telefonoAcquirente" : "1234567890"
+    }
+  }
+}

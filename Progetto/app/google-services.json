@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "295722022212",
+    "firebase_url": "https://mobile-database-c5aba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-database-c5aba",
+    "storage_bucket": "mobile-database-c5aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295722022212:android:8b8ba3458af30b2f099311",
+        "android_client_info": {
+          "package_name": "com.example.mainactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcim_BMnMaLYaq4xkWziISw-6ZsXEEq0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295722022212:android:3f55e0c3d04c13f1099311",
+        "android_client_info": {
+          "package_name": "com.example.progetto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcim_BMnMaLYaq4xkWziISw-6ZsXEEq0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295722022212:android:c58f93c4a54da89d099311",
+        "android_client_info": {
+          "package_name": "com.example.turoialwhatappyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcim_BMnMaLYaq4xkWziISw-6ZsXEEq0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295722022212-lopj05ij1h1eo0a8u38d62ralkr7psq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
